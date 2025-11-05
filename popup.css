@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 10px;
+  font-family: sans-serif;
+  width: 120px;
+}
+
+button {
+  width: 100%;
+  padding: 8px 0;
+  font-size: 14px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.on {
+  background: #e63946;
+  color: #fff;
+}
+
+.off {
+  background: #ddd;
+  color: #333;
+}
